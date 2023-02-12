@@ -1,0 +1,20 @@
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding:0;
+  margin:0;
+  background-color:#f4f4f4
+}
+
+.container{
+    width: 80%;
+    margin:auto;
+    overflow: hidden;
+}
+
+header{
+    background:#35424a;
+    color: aqua;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #f4f4f4;
+}
